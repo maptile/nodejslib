@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/maptile/nodejslib.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "maptile",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/maptile/nodejslib/issues"
   },
